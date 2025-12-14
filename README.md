@@ -1,6 +1,3 @@
-# qr-code-generator
-
-markdown
 # 🎯 QR 코드 생성기
 
 웹사이트 링크를 QR 코드로 변환하는 간단한 웹 애플리케이션입니다.
@@ -21,13 +18,13 @@ markdown
 
 ## 🌐 데모
 
-[GitHub Pages에서 보기](https://your-username.github.io/qr-code-generator/)
+[GitHub Pages에서 보기](https://dnang-spec.github.io/qr-code-generator/)
 
 ## 💻 로컬 실행
 
 1. 저장소 클론
 ```bash
-git clone https://github.com/your-username/qr-code-generator.git
+git clone https://github.com/dnang-spec/qr-code-generator.git
 ```
 
 2. index.html 파일을 브라우저로 열기
@@ -37,3 +34,17 @@ git clone https://github.com/your-username/qr-code-generator.git
 - React 18
 - Tailwind CSS
 - QR Server API
+
+## 📝 라이선스
+
+MIT License
+
+## 👤 작성자
+
+dnang - https://github.com/dnang-spec
+```
+
+
+# Editor
+.vscode/
+.idea/
